@@ -165,42 +165,77 @@
     "href": "index.html",
     "title": "Mojtaba A. Farahani",
     "section": "",
-    "text": "I am a postdoctoral researcher at the University of South Carolina working on data-driven analytics for smart manufacturing systems. My research develops AI-enabled methods for understanding, forecasting, and improving complex manufacturing systems through time-series analytics, machine learning, deep learning, digital twins, and collaborative industrial intelligence.\nMy work focuses on practical analytics for process optimization, quality improvement, predictive maintenance, robotics and assembly, and secure collaborative manufacturing systems. I am especially interested in methods that connect data-rich manufacturing environments with trustworthy decision support."
+    "text": "I am a postdoctoral researcher at the University of South Carolina working on data-driven analytics for smart manufacturing systems.\nMy research develops AI-enabled methods for understanding, forecasting, and improving complex manufacturing systems through time-series analytics, machine learning, deep learning, digital twins, agentic AI, and collaborative industrial intelligence. I am especially interested in methods that connect data-rich manufacturing environments with trustworthy decision support."
   },
   {
     "objectID": "index.html#postdoctoral-researcher-in-smart-manufacturing-analytics",
     "href": "index.html#postdoctoral-researcher-in-smart-manufacturing-analytics",
     "title": "Mojtaba A. Farahani",
     "section": "",
-    "text": "I am a postdoctoral researcher at the University of South Carolina working on data-driven analytics for smart manufacturing systems. My research develops AI-enabled methods for understanding, forecasting, and improving complex manufacturing systems through time-series analytics, machine learning, deep learning, digital twins, and collaborative industrial intelligence.\nMy work focuses on practical analytics for process optimization, quality improvement, predictive maintenance, robotics and assembly, and secure collaborative manufacturing systems. I am especially interested in methods that connect data-rich manufacturing environments with trustworthy decision support."
+    "text": "I am a postdoctoral researcher at the University of South Carolina working on data-driven analytics for smart manufacturing systems.\nMy research develops AI-enabled methods for understanding, forecasting, and improving complex manufacturing systems through time-series analytics, machine learning, deep learning, digital twins, agentic AI, and collaborative industrial intelligence. I am especially interested in methods that connect data-rich manufacturing environments with trustworthy decision support."
+  },
+  {
+    "objectID": "index.html#at-a-glance",
+    "href": "index.html#at-a-glance",
+    "title": "Mojtaba A. Farahani",
+    "section": "At a Glance",
+    "text": "At a Glance\nCurrent role: Postdoctoral Fellow, University of South Carolina\nResearch area: Smart manufacturing analytics and industrial AI\nTraining: Ph.D. in Industrial Engineering, West Virginia University\nDissertation: A Data-driven Time-Series Analytics Framework for Smart Manufacturing Systems"
   },
   {
     "objectID": "index.html#research-focus",
     "href": "index.html#research-focus",
     "title": "Mojtaba A. Farahani",
     "section": "Research Focus",
-    "text": "Research Focus\n\nSmart manufacturing systems: Data-driven modeling, monitoring, and optimization of advanced manufacturing processes.\nTime-series analytics: Forecasting, classification, pattern recognition, and anomaly detection for industrial data streams.\nIndustrial AI: Machine learning and deep learning for predictive maintenance, defect detection, and quality improvement.\nAgentic AI and multi-agent systems: AI-enabled decision support for complex manufacturing and supply-network settings.\nDigital twins and digital supply networks: Connected models for system-level visibility, simulation, and operational insight.\nSecure collaborative manufacturing: Federated learning and blockchain-enabled approaches for privacy-preserving industrial AI."
+    "text": "Research Focus\n\nTime-series forecasting, classification, and pattern recognition for smart manufacturing.\nMachine learning and deep learning for quality improvement, defect detection, and predictive maintenance.\nAgentic AI, multi-agent systems, and digital twins for manufacturing decision support.\nFederated learning and blockchain-enabled analytics for secure collaborative manufacturing."
   },
   {
-    "objectID": "index.html#current-appointment",
-    "href": "index.html#current-appointment",
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
     "title": "Mojtaba A. Farahani",
-    "section": "Current Appointment",
-    "text": "Current Appointment\nPostdoctoral Fellow\nUniversity of South Carolina\nJanuary 2025 - Present"
+    "section": "Selected Work",
+    "text": "Selected Work\n\nExperimental evaluation of time-series forecasting and classification algorithms for smart manufacturing systems.\nReal-time defect detection and classification in robotic assembly lines.\nDigital twin enabled robot collision detection using time-series forecasting.\nFederated learning and blockchain frameworks for privacy-preserving manufacturing analytics."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
+    "objectID": "index.html#navigate",
+    "href": "index.html#navigate",
     "title": "Mojtaba A. Farahani",
-    "section": "Education",
-    "text": "Education\nPh.D. in Industrial Engineering\nWest Virginia University, 2024\nDissertation: A Data-driven Time-Series Analytics Framework for Smart Manufacturing Systems"
+    "section": "Navigate",
+    "text": "Navigate\n\nNews: Recent updates.\nResearch: Research themes and current directions.\nPublications: Journal articles, conference papers, preprints, and reports.\nProjects: Selected research and applied engineering projects.\nTeaching: Teaching experience and course support.\nCV: Concise web CV and downloadable academic CV.\nContact: Email and professional profiles."
   },
   {
-    "objectID": "index.html#site-guide",
-    "href": "index.html#site-guide",
-    "title": "Mojtaba A. Farahani",
-    "section": "Site Guide",
-    "text": "Site Guide\n\nResearch: Research themes and current directions.\nPublications: Published papers, working papers, and technical reports.\nProjects: Selected research and applied engineering projects.\nTeaching: Teaching experience and course support.\nCV: Concise web CV and downloadable academic CV."
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "2026: Published work on hybrid agentic AI and multi-agent systems in smart manufacturing.\n2026: Published work on digital twin enabled robot collision detection using time-series forecasting.\n2026: Published work on blockchain-empowered federated learning applications in smart manufacturing."
+  },
+  {
+    "objectID": "news.html#section",
+    "href": "news.html#section",
+    "title": "News",
+    "section": "",
+    "text": "2026: Published work on hybrid agentic AI and multi-agent systems in smart manufacturing.\n2026: Published work on digital twin enabled robot collision detection using time-series forecasting.\n2026: Published work on blockchain-empowered federated learning applications in smart manufacturing."
+  },
+  {
+    "objectID": "news.html#section-1",
+    "href": "news.html#section-1",
+    "title": "News",
+    "section": "2025",
+    "text": "2025\n\nJanuary 2025: Began as a Postdoctoral Fellow at the University of South Carolina.\n2025: Published work on time-series forecasting in smart manufacturing systems.\n2025: Published work on time-series classification in smart manufacturing systems.\n2025: Published work on real-time defect detection and classification in robotic assembly lines.\nFall 2025: Co-Lecturer for Applied Systems Engineering for Complex Systems, INDE 561, at the University of South Carolina."
+  },
+  {
+    "objectID": "news.html#section-2",
+    "href": "news.html#section-2",
+    "title": "News",
+    "section": "2024",
+    "text": "2024\n\n2024: Completed Ph.D. in Industrial Engineering at West Virginia University.\n2024: Dissertation: A Data-driven Time-Series Analytics Framework for Smart Manufacturing Systems.\n2024: Published work on high-resolution time-series classification in smart manufacturing systems."
+  },
+  {
+    "objectID": "news.html#earlier",
+    "href": "news.html#earlier",
+    "title": "News",
+    "section": "Earlier",
+    "text": "Earlier\n\n2023: Published work on time-series pattern recognition in smart manufacturing systems.\n2021: Published work on image-based quality inspection in smart manufacturing systems."
   },
   {
     "objectID": "publications.html",
@@ -235,14 +270,21 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Co-Lecturer, Fall 2025\n\nDesigned and delivered lab sessions on AI/ML and data-driven methods for systems modeling.\nAssisted in developing capstone project curriculum.\nGuided student teams through real-world engineering problem-solving."
+    "text": "My teaching focuses on helping students connect systems engineering, data-driven methods, and real engineering decision-making. I emphasize applied problem-solving, hands-on analytical tools, and clear links between theory, modeling, and practice."
+  },
+  {
+    "objectID": "teaching.html#teaching-approach",
+    "href": "teaching.html#teaching-approach",
+    "title": "Teaching",
+    "section": "",
+    "text": "My teaching focuses on helping students connect systems engineering, data-driven methods, and real engineering decision-making. I emphasize applied problem-solving, hands-on analytical tools, and clear links between theory, modeling, and practice."
   },
   {
     "objectID": "teaching.html#university-of-south-carolina",
     "href": "teaching.html#university-of-south-carolina",
     "title": "Teaching",
-    "section": "",
-    "text": "Co-Lecturer, Fall 2025\n\nDesigned and delivered lab sessions on AI/ML and data-driven methods for systems modeling.\nAssisted in developing capstone project curriculum.\nGuided student teams through real-world engineering problem-solving."
+    "section": "University of South Carolina",
+    "text": "University of South Carolina\n\nApplied Systems Engineering for Complex Systems, INDE 561\nCo-Lecturer, Fall 2025\n\nDesigned and delivered lab sessions on AI/ML and data-driven methods for systems modeling.\nAssisted in developing capstone project curriculum.\nGuided student teams through real-world engineering problem-solving.\n\nTeaching contributions included laboratory instruction, applied examples, student project guidance, and support for course material development."
   },
   {
     "objectID": "teaching.html#west-virginia-university",
@@ -252,6 +294,13 @@
     "text": "West Virginia University\n\nGraduate Teaching Assistant\nCourses supported:\n\nSystems Engineering\nManufacturing Processes\nAdvanced Analysis of Engineering Data\n\nResponsibilities included office hours, grading, instructional support, feedback, and student mentoring."
   },
   {
+    "objectID": "teaching.html#teaching-interests",
+    "href": "teaching.html#teaching-interests",
+    "title": "Teaching",
+    "section": "Teaching Interests",
+    "text": "Teaching Interests\n\nApplied systems engineering and complex systems.\nSmart manufacturing and industrial analytics.\nMachine learning and data-driven methods for engineering systems.\nManufacturing processes and quality improvement.\nEngineering data analysis and decision support."
+  },
+  {
     "objectID": "achievements.html",
     "href": "achievements.html",
     "title": "Achievements",
@@ -259,24 +308,52 @@
     "text": "This page highlights selected academic, research, teaching, and professional achievements."
   },
   {
-    "objectID": "achievements.html#research-and-academic-milestones",
-    "href": "achievements.html#research-and-academic-milestones",
+    "objectID": "achievements.html#academic-milestones",
+    "href": "achievements.html#academic-milestones",
     "title": "Achievements",
-    "section": "Research and Academic Milestones",
-    "text": "Research and Academic Milestones\n\nPostdoctoral Fellow, University of South Carolina, January 2025 - Present.\nPh.D. in Industrial Engineering, West Virginia University, 2024.\nDissertation: A Data-driven Time-Series Analytics Framework for Smart Manufacturing Systems."
+    "section": "Academic Milestones",
+    "text": "Academic Milestones\n\nPostdoctoral Fellow, University of South Carolina, January 2025 - Present.\nPh.D. in Industrial Engineering, West Virginia University, 2024.\nDissertation: A Data-driven Time-Series Analytics Framework for Smart Manufacturing Systems."
   },
   {
-    "objectID": "achievements.html#publications-and-research-contributions",
-    "href": "achievements.html#publications-and-research-contributions",
+    "objectID": "achievements.html#research-contributions",
+    "href": "achievements.html#research-contributions",
     "title": "Achievements",
-    "section": "Publications and Research Contributions",
-    "text": "Publications and Research Contributions\n\nPublished work on time-series forecasting for smart manufacturing systems.\nResearch contributions in machine learning, deep learning, predictive maintenance, quality improvement, and collaborative manufacturing analytics."
+    "section": "Research Contributions",
+    "text": "Research Contributions\n\nPublished research on time-series forecasting, classification, and pattern recognition in smart manufacturing systems.\nContributed to research on real-time defect detection in robotic assembly lines.\nContributed to research on digital twin enabled robot collision detection.\nContributed to research on federated learning and blockchain-enabled collaborative manufacturing analytics."
   },
   {
     "objectID": "achievements.html#teaching-and-mentoring",
     "href": "achievements.html#teaching-and-mentoring",
     "title": "Achievements",
     "section": "Teaching and Mentoring",
-    "text": "Teaching and Mentoring\n\nCo-Lecturer for Applied Systems Engineering for Complex Systems, INDE 561, University of South Carolina, Fall 2025.\nGraduate Teaching Assistant at West Virginia University for systems engineering, manufacturing processes, and engineering data analysis courses.\n\nAdditional awards, honors, service roles, and invited activities will be added as the record is updated."
+    "text": "Teaching and Mentoring\n\nCo-Lecturer for Applied Systems Engineering for Complex Systems, INDE 561, University of South Carolina, Fall 2025.\nGraduate Teaching Assistant at West Virginia University for systems engineering, manufacturing processes, and engineering data analysis courses.\nMentored and guided student teams through real-world engineering problem-solving and capstone-style project work."
+  },
+  {
+    "objectID": "achievements.html#grants-and-funded-projects",
+    "href": "achievements.html#grants-and-funded-projects",
+    "title": "Achievements",
+    "section": "Grants and Funded Projects",
+    "text": "Grants and Funded Projects\n\nContributed to NSF-funded research on manufacturing time-series analytics at West Virginia University."
+  },
+  {
+    "objectID": "achievements.html#professional-service",
+    "href": "achievements.html#professional-service",
+    "title": "Achievements",
+    "section": "Professional Service",
+    "text": "Professional Service\n\nReviewer service, conference activities, and professional society involvement will be added as the record is updated."
+  },
+  {
+    "objectID": "achievements.html#invited-talks-and-presentations",
+    "href": "achievements.html#invited-talks-and-presentations",
+    "title": "Achievements",
+    "section": "Invited Talks and Presentations",
+    "text": "Invited Talks and Presentations\n\nInvited talks, conference presentations, seminars, and workshops will be added as the record is updated."
+  },
+  {
+    "objectID": "achievements.html#awards-and-honors",
+    "href": "achievements.html#awards-and-honors",
+    "title": "Achievements",
+    "section": "Awards and Honors",
+    "text": "Awards and Honors\n\nAwards, honors, and recognitions will be added as the record is updated."
   }
 ]

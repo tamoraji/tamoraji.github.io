@@ -1,0 +1,28 @@
+---
+title: "News"
+---
+
+## 2026
+
+- **2026:** Published work on hybrid agentic AI and multi-agent systems in smart manufacturing.
+- **2026:** Published work on digital twin enabled robot collision detection using time-series forecasting.
+- **2026:** Published work on blockchain-empowered federated learning applications in smart manufacturing.
+
+## 2025
+
+- **January 2025:** Began as a Postdoctoral Fellow at the University of South Carolina.
+- **2025:** Published work on time-series forecasting in smart manufacturing systems.
+- **2025:** Published work on time-series classification in smart manufacturing systems.
+- **2025:** Published work on real-time defect detection and classification in robotic assembly lines.
+- **Fall 2025:** Co-Lecturer for Applied Systems Engineering for Complex Systems, INDE 561, at the University of South Carolina.
+
+## 2024
+
+- **2024:** Completed Ph.D. in Industrial Engineering at West Virginia University.
+- **2024:** Dissertation: *A Data-driven Time-Series Analytics Framework for Smart Manufacturing Systems*.
+- **2024:** Published work on high-resolution time-series classification in smart manufacturing systems.
+
+## Earlier
+
+- **2023:** Published work on time-series pattern recognition in smart manufacturing systems.
+- **2021:** Published work on image-based quality inspection in smart manufacturing systems.

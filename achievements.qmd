@@ -4,20 +4,37 @@ title: "Achievements"
 
 This page highlights selected academic, research, teaching, and professional achievements.
 
-## Research and Academic Milestones
+## Academic Milestones
 
 - Postdoctoral Fellow, University of South Carolina, January 2025 - Present.
 - Ph.D. in Industrial Engineering, West Virginia University, 2024.
 - Dissertation: *A Data-driven Time-Series Analytics Framework for Smart Manufacturing Systems*.
 
-## Publications and Research Contributions
+## Research Contributions
 
-- Published work on time-series forecasting for smart manufacturing systems.
-- Research contributions in machine learning, deep learning, predictive maintenance, quality improvement, and collaborative manufacturing analytics.
+- Published research on time-series forecasting, classification, and pattern recognition in smart manufacturing systems.
+- Contributed to research on real-time defect detection in robotic assembly lines.
+- Contributed to research on digital twin enabled robot collision detection.
+- Contributed to research on federated learning and blockchain-enabled collaborative manufacturing analytics.
 
 ## Teaching and Mentoring
 
 - Co-Lecturer for Applied Systems Engineering for Complex Systems, INDE 561, University of South Carolina, Fall 2025.
 - Graduate Teaching Assistant at West Virginia University for systems engineering, manufacturing processes, and engineering data analysis courses.
+- Mentored and guided student teams through real-world engineering problem-solving and capstone-style project work.
 
-Additional awards, honors, service roles, and invited activities will be added as the record is updated.
+## Grants and Funded Projects
+
+- Contributed to NSF-funded research on manufacturing time-series analytics at West Virginia University.
+
+## Professional Service
+
+- Reviewer service, conference activities, and professional society involvement will be added as the record is updated.
+
+## Invited Talks and Presentations
+
+- Invited talks, conference presentations, seminars, and workshops will be added as the record is updated.
+
+## Awards and Honors
+
+- Awards, honors, and recognitions will be added as the record is updated.

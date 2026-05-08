@@ -2,6 +2,10 @@
 title: "Teaching"
 ---
 
+## Teaching Approach
+
+My teaching focuses on helping students connect systems engineering, data-driven methods, and real engineering decision-making. I emphasize applied problem-solving, hands-on analytical tools, and clear links between theory, modeling, and practice.
+
 ## University of South Carolina
 
 ### Applied Systems Engineering for Complex Systems, INDE 561
@@ -10,6 +14,8 @@ title: "Teaching"
 - Designed and delivered lab sessions on AI/ML and data-driven methods for systems modeling.
 - Assisted in developing capstone project curriculum.
 - Guided student teams through real-world engineering problem-solving.
+
+Teaching contributions included laboratory instruction, applied examples, student project guidance, and support for course material development.
 
 ## West Virginia University
 
@@ -22,3 +28,11 @@ Courses supported:
 - Advanced Analysis of Engineering Data
 
 Responsibilities included office hours, grading, instructional support, feedback, and student mentoring.
+
+## Teaching Interests
+
+- Applied systems engineering and complex systems.
+- Smart manufacturing and industrial analytics.
+- Machine learning and data-driven methods for engineering systems.
+- Manufacturing processes and quality improvement.
+- Engineering data analysis and decision support.

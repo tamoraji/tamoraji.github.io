@@ -3,6 +3,7 @@ project:
   output-dir: docs
   render:
     - index.qmd
+    - news.qmd
     - research.qmd
     - publications.qmd
     - projects.qmd
@@ -17,6 +18,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: news.qmd
+        text: News
       - href: research.qmd
         text: Research
       - href: publications.qmd
