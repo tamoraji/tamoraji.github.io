@@ -1,6 +1,15 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - research.qmd
+    - publications.qmd
+    - projects.qmd
+    - teaching.qmd
+    - cv.qmd
+    - achievements.qmd
+    - contact.qmd
 
 website:
   title: "Mojtaba A. Farahani"

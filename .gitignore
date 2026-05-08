@@ -1,15 +1,14 @@
-# Ignore the contents of the _site directory and other cache directories
-_site/
-.sass-cache/
-
-# Ignore the directory for local files during development
-local/
-
-# Ignore the Gemfile that is generated
-Gemfile.lock
-
-# Ingore files created by npm
-node_modules
-package-lock.json
+# Quarto caches and temporary files
 /.quarto/
+/.quarto_ipynb/
 **/*.quarto_ipynb
+
+# Local generated directories from older builds
+_site/
+
+# OS and editor files
+.DS_Store
+.idea/
+
+# Dependency folders
+node_modules/
