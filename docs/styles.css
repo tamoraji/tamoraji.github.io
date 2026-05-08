@@ -29,20 +29,31 @@ main.content {
   max-width: 920px;
 }
 
-.profile-photo {
+.home-intro {
+  display: grid;
+  grid-template-columns: 180px minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: start;
+  margin-top: 1rem;
+}
+
+.home-photo-img {
   width: 180px;
-  max-width: 40vw;
   border-radius: 50%;
-  float: right;
-  margin: 0 0 1rem 1.5rem;
   border: 1px solid #e6edf3;
 }
 
+.home-summary p:first-child {
+  margin-top: 0;
+}
+
 @media (max-width: 640px) {
-  .profile-photo {
-    float: none;
-    display: block;
-    margin: 0 0 1rem 0;
-    max-width: 160px;
+  .home-intro {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .home-photo-img {
+    width: 160px;
   }
 }
