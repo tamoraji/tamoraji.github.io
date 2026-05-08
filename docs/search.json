@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "tamoraji.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "achievements.html",
+    "href": "achievements.html",
+    "title": "Achievement",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "markdown_generator/readme.html",
+    "href": "markdown_generator/readme.html",
+    "title": "Jupyter notebook markdown generator",
+    "section": "",
+    "text": "Jupyter notebook markdown generator\nThese .ipynb files are Jupyter notebook files that convert a TSV containing structured data about talks (talks.tsv) or presentations (presentations.tsv) into individual markdown files that will be properly formatted for the academicpages template. The notebooks contain a lot of documentation about the process. The .py files are pure python that do the same things if they are executed in a terminal, they just don’t have pretty documentation."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "markdown_generator/OrcidToBib.html",
+    "href": "markdown_generator/OrcidToBib.html",
+    "title": "Tamo Raji",
+    "section": "",
+    "text": "orcid = '0000-0000-0000-0000' # Fill your orcid here\n\n\nimport requests\n\nWe use the /works api to list all works related to the orcid. This gives a summary of all works, so citation information is not included. We collect the put-code of all works to retrieve the citation information later.\n\nresponse = requests.get('https://pub.orcid.org/v3.0/{}/works'.format(orcid),\n                        headers={\"Accept\": \"application/orcid+json\" })\nrecord = response.json()\n\n\nput_codes = []\nfor work in record['group']:\n    put_code = work['work-summary'][0]['put-code']\n    put_codes.append(put_code)\nput_code = put_codes[0]\n\nWe use the /&lt;orcid&gt;/work/&lt;put-code&gt; endpoint to retrieve the citation information for each record.\n\ncitations = []\nfor put_code in put_codes:\n    response = requests.get('https://pub.orcid.org/v3.0/{}/work/{}'.format(orcid, put_code),\n                            headers={\"Accept\": \"application/orcid+json\" })\n    work = response.json()\n    if work['citation'] is not None:\n        citations.append(work['citation']['citation-value'])\n\n\nwith open('output.bib', 'w') as bibfile:\n    for citation in citations:\n        bibfile.write(citation)\n        bibfile.write('\\n')"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "CONTRIBUTING.html",
+    "href": "CONTRIBUTING.html",
+    "title": "Tamo Raji",
+    "section": "",
+    "text": "Contributions are welcome!\nPlease add issues and make pull requests. There are no stupid questions. All ideas are welcome. This is a volunteer project. Be excellent to each other.\nBug reports and feature requests to the template should be submitted via GitHub. For questions concerning how to style the template, please feel free to start a new discussion on GitHub.\nFork from master and go from there. Remember that this repository is intended to remain a generic, ready-to-fork template that demonstrates the features of academicpages."
+  }
+]
