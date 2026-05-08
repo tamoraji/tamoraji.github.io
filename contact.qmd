@@ -2,12 +2,32 @@
 title: "Contact"
 ---
 
-For research collaboration, academic inquiries, or professional contact, please reach out by email.
+For research collaboration, academic inquiries, teaching-related questions, or professional contact, please reach out by email.
 
-**Email:** [askarzadeh.mojtaba@gmail.com](mailto:askarzadeh.mojtaba@gmail.com)
+## Email
 
-## Profiles
+**Mojtaba A. Farahani**  
+Academic: [moji_f@sc.edu](mailto:moji_f@sc.edu)  
+Personal: [askarzadeh.mojtaba@gmail.com](mailto:askarzadeh.mojtaba@gmail.com)
+
+## Professional Profiles
 
 - [Google Scholar](https://scholar.google.com/citations?user=UrrZxRAAAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/askarzadeh-mojtaba/)
 - [GitHub](https://github.com/tamoraji)
+
+## Collaboration Interests
+
+I am especially interested in collaboration related to:
+
+- Smart manufacturing analytics.
+- Manufacturing time-series forecasting and classification.
+- Machine learning and deep learning for industrial systems.
+- Digital twins and robotic manufacturing systems.
+- Agentic AI and multi-agent systems.
+- Federated learning and blockchain-enabled collaborative manufacturing.
+
+## Location
+
+University of South Carolina  
+Columbia, South Carolina, USA

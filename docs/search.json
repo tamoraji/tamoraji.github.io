@@ -4,14 +4,35 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "For research collaboration, academic inquiries, or professional contact, please reach out by email.\nEmail: askarzadeh.mojtaba@gmail.com"
+    "text": "For research collaboration, academic inquiries, teaching-related questions, or professional contact, please reach out by email."
   },
   {
-    "objectID": "contact.html#profiles",
-    "href": "contact.html#profiles",
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
     "title": "Contact",
-    "section": "Profiles",
-    "text": "Profiles\n\nGoogle Scholar\nLinkedIn\nGitHub"
+    "section": "Email",
+    "text": "Email\nMojtaba A. Farahani\nAcademic: moji_f@sc.edu\nPersonal: askarzadeh.mojtaba@gmail.com"
+  },
+  {
+    "objectID": "contact.html#professional-profiles",
+    "href": "contact.html#professional-profiles",
+    "title": "Contact",
+    "section": "Professional Profiles",
+    "text": "Professional Profiles\n\nGoogle Scholar\nLinkedIn\nGitHub"
+  },
+  {
+    "objectID": "contact.html#collaboration-interests",
+    "href": "contact.html#collaboration-interests",
+    "title": "Contact",
+    "section": "Collaboration Interests",
+    "text": "Collaboration Interests\nI am especially interested in collaboration related to:\n\nSmart manufacturing analytics.\nManufacturing time-series forecasting and classification.\nMachine learning and deep learning for industrial systems.\nDigital twins and robotic manufacturing systems.\nAgentic AI and multi-agent systems.\nFederated learning and blockchain-enabled collaborative manufacturing."
+  },
+  {
+    "objectID": "contact.html#location",
+    "href": "contact.html#location",
+    "title": "Contact",
+    "section": "Location",
+    "text": "Location\nUniversity of South Carolina\nColumbia, South Carolina, USA"
   },
   {
     "objectID": "cv.html",
