@@ -66,6 +66,10 @@ title: "Publications"
 
 ## Manuscripts Under Review and Working Papers
 
+Manuscripts under review and working papers will be added as they become available.
+
+## Technical Reports and Preprints
+
 1. **Farahani, M. A.** & McKendall, A. (2023).  
    *A genetic algorithm meta-heuristic for a generalized quadratic assignment problem.*  
    arXiv preprint arXiv:2308.07828v2.
@@ -74,8 +78,6 @@ title: "Publications"
    *Multivariate time series classification with dual attention network.*  
    arXiv preprint arXiv:2308.13968.
 
-## Technical Reports and Preprints
-
-1. **Farahani, M. A.** & Wuest, T.  
+3. **Farahani, M. A.** & Wuest, T.  
    *Unlocking efficiency.*  
    Technical report.
