@@ -18,7 +18,7 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "This page provides a concise academic CV. A downloadable version is available here:\nDownload full CV"
+    "text": "This page provides a concise academic CV summary. For full details, please use the downloadable version:\nDownload full CV"
   },
   {
     "objectID": "cv.html#current-position",
@@ -42,18 +42,32 @@
     "text": "Research Interests\n\nSmart manufacturing systems\nTime-series analytics\nMachine learning and deep learning\nAgentic AI and multi-agent systems\nDigital twins and digital supply networks\nFederated learning and blockchain-enabled collaborative manufacturing"
   },
   {
+    "objectID": "cv.html#selected-publications",
+    "href": "cv.html#selected-publications",
+    "title": "CV",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\nFarahani, M. A., El Kalach, F., Harper, A., McCormick, M. R., Harik, R., & Wuest, T. (2025). Time-series forecasting in smart manufacturing systems: An experimental evaluation of the state-of-the-art algorithms. Robotics and Computer-Integrated Manufacturing.\nFarahani, M. A., McCormick, M. R., Harik, R., & Wuest, T. (2025). Time-series classification in smart manufacturing systems: An experimental evaluation of state-of-the-art machine learning algorithms. Robotics and Computer-Integrated Manufacturing.\nFarahani, M. A., McCormick, M. R., Gianinny, R., Hudacheck, F., Harik, R., Liu, Z., & Wuest, T. (2023). Time-series pattern recognition in Smart Manufacturing Systems: A literature review and ontology. Journal of Manufacturing Systems.\n\nSee the Publications page for the full publication list."
+  },
+  {
+    "objectID": "cv.html#selected-projects",
+    "href": "cv.html#selected-projects",
+    "title": "CV",
+    "section": "Selected Projects",
+    "text": "Selected Projects\n\nTime-series analytics for smart manufacturing systems.\nReal-time defect detection and classification in robotic assembly lines.\nFederated learning and blockchain for secure collaborative manufacturing.\nAgentic AI and multi-agent systems in smart manufacturing.\nDigital twin enabled robot collision detection.\n\nSee the Projects page for project summaries."
+  },
+  {
     "objectID": "cv.html#teaching",
     "href": "cv.html#teaching",
     "title": "CV",
     "section": "Teaching",
-    "text": "Teaching\nCo-Lecturer, Applied Systems Engineering for Complex Systems, INDE 561\nUniversity of South Carolina, Fall 2025\nGraduate Teaching Assistant\nWest Virginia University"
+    "text": "Teaching\nCo-Lecturer, Applied Systems Engineering for Complex Systems, INDE 561\nUniversity of South Carolina, Fall 2025\nGraduate Teaching Assistant\nWest Virginia University\nCourses supported include systems engineering, manufacturing processes, and advanced analysis of engineering data."
   },
   {
-    "objectID": "cv.html#selected-experience",
-    "href": "cv.html#selected-experience",
+    "objectID": "cv.html#professional-links",
+    "href": "cv.html#professional-links",
     "title": "CV",
-    "section": "Selected Experience",
-    "text": "Selected Experience\nSee the downloadable CV for full research, teaching, industry, publication, and service details."
+    "section": "Professional Links",
+    "text": "Professional Links\n\nGoogle Scholar\nLinkedIn\nGitHub\nContact"
   },
   {
     "objectID": "projects.html",

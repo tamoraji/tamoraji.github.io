@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-This page provides a concise academic CV. A downloadable version is available here:
+This page provides a concise academic CV summary. For full details, please use the downloadable version:
 
 [Download full CV](files/Academic_CV.pdf)
 
@@ -27,6 +27,24 @@ Dissertation: *A Data-driven Time-Series Analytics Framework for Smart Manufactu
 - Digital twins and digital supply networks
 - Federated learning and blockchain-enabled collaborative manufacturing
 
+## Selected Publications
+
+- **Farahani, M. A.**, El Kalach, F., Harper, A., McCormick, M. R., Harik, R., & Wuest, T. (2025). *Time-series forecasting in smart manufacturing systems: An experimental evaluation of the state-of-the-art algorithms.* Robotics and Computer-Integrated Manufacturing.
+- **Farahani, M. A.**, McCormick, M. R., Harik, R., & Wuest, T. (2025). *Time-series classification in smart manufacturing systems: An experimental evaluation of state-of-the-art machine learning algorithms.* Robotics and Computer-Integrated Manufacturing.
+- **Farahani, M. A.**, McCormick, M. R., Gianinny, R., Hudacheck, F., Harik, R., Liu, Z., & Wuest, T. (2023). *Time-series pattern recognition in Smart Manufacturing Systems: A literature review and ontology.* Journal of Manufacturing Systems.
+
+See the [Publications](publications.qmd) page for the full publication list.
+
+## Selected Projects
+
+- Time-series analytics for smart manufacturing systems.
+- Real-time defect detection and classification in robotic assembly lines.
+- Federated learning and blockchain for secure collaborative manufacturing.
+- Agentic AI and multi-agent systems in smart manufacturing.
+- Digital twin enabled robot collision detection.
+
+See the [Projects](projects.qmd) page for project summaries.
+
 ## Teaching
 
 **Co-Lecturer, Applied Systems Engineering for Complex Systems, INDE 561**  
@@ -35,6 +53,11 @@ University of South Carolina, Fall 2025
 **Graduate Teaching Assistant**  
 West Virginia University
 
-## Selected Experience
+Courses supported include systems engineering, manufacturing processes, and advanced analysis of engineering data.
 
-See the downloadable CV for full research, teaching, industry, publication, and service details.
+## Professional Links
+
+- [Google Scholar](https://scholar.google.com/citations?user=UrrZxRAAAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/askarzadeh-mojtaba/)
+- [GitHub](https://github.com/tamoraji)
+- [Contact](contact.qmd)
