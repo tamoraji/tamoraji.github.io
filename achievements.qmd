@@ -1,5 +1,23 @@
 ---
-title: "Achievement"
+title: "Achievements"
 ---
 
-Coming soon.
+This page highlights selected academic, research, teaching, and professional achievements.
+
+## Research and Academic Milestones
+
+- Postdoctoral Fellow, University of South Carolina, January 2025 - Present.
+- Ph.D. in Industrial Engineering, West Virginia University, 2024.
+- Dissertation: *A Data-driven Time-Series Analytics Framework for Smart Manufacturing Systems*.
+
+## Publications and Research Contributions
+
+- Published work on time-series forecasting for smart manufacturing systems.
+- Research contributions in machine learning, deep learning, predictive maintenance, quality improvement, and collaborative manufacturing analytics.
+
+## Teaching and Mentoring
+
+- Co-Lecturer for Applied Systems Engineering for Complex Systems, INDE 561, University of South Carolina, Fall 2025.
+- Graduate Teaching Assistant at West Virginia University for systems engineering, manufacturing processes, and engineering data analysis courses.
+
+Additional awards, honors, service roles, and invited activities will be added as the record is updated.

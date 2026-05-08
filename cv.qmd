@@ -2,4 +2,39 @@
 title: "CV"
 ---
 
-Coming soon.
+This page provides a concise academic CV. A downloadable version is available here:
+
+[Download full CV](files/Academic_CV.pdf)
+
+## Current Position
+
+**Postdoctoral Fellow**  
+University of South Carolina  
+January 2025 - Present
+
+## Education
+
+**Ph.D. in Industrial Engineering**  
+West Virginia University, 2024  
+Dissertation: *A Data-driven Time-Series Analytics Framework for Smart Manufacturing Systems*
+
+## Research Interests
+
+- Smart manufacturing systems
+- Time-series analytics
+- Machine learning and deep learning
+- Agentic AI and multi-agent systems
+- Digital twins and digital supply networks
+- Federated learning and blockchain-enabled collaborative manufacturing
+
+## Teaching
+
+**Co-Lecturer, Applied Systems Engineering for Complex Systems, INDE 561**  
+University of South Carolina, Fall 2025
+
+**Graduate Teaching Assistant**  
+West Virginia University
+
+## Selected Experience
+
+See the downloadable CV for full research, teaching, industry, publication, and service details.

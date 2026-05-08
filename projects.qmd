@@ -2,4 +2,22 @@
 title: "Projects"
 ---
 
-Coming soon.
+## Time-Series Analytics for Smart Manufacturing
+
+Developed machine learning and deep learning models for forecasting, classification, pattern recognition, and decision support in smart manufacturing systems.
+
+## Manufacturing Time-Series Analytics in NSF-Funded Research
+
+Led the manufacturing time-series analytics task in NSF-funded research at West Virginia University, with emphasis on experimental evaluation of algorithms for manufacturing data streams.
+
+## Real-Time Defect Detection in Robotic Assembly
+
+Contributed to machine learning frameworks for real-time defect detection and classification in robotic assembly lines, connecting sensor data with quality monitoring and process feedback.
+
+## Federated Learning and Blockchain for Smart Manufacturing
+
+Current work on integrating federated learning, blockchain, and ML/DL models for secure and collaborative manufacturing systems where data privacy and trust are central constraints.
+
+## Rocket Assembly Line Testbed as a Service
+
+Contributed to research on data acquisition strategies and testbed-as-a-service frameworks for rocket assembly lines, supporting repeatable experimentation and manufacturing analytics research.

@@ -2,4 +2,18 @@
 title: "Publications"
 ---
 
-Coming soon.
+## Published Papers
+
+1. **Farahani, M. A.**, El Kalach, F., Harper, A., McCormick, M. R., Harik, R., & Wuest, T. (2025).  
+   *Time-series forecasting in smart manufacturing systems: An experimental evaluation of the state-of-the-art algorithms.*  
+   Robotics and Computer-Integrated Manufacturing, 95, 103010.
+
+   Benchmarked state-of-the-art time-series forecasting algorithms for manufacturing applications.
+
+## Manuscripts Under Review and Working Papers
+
+- Manuscripts in preparation on smart manufacturing analytics, collaborative industrial AI, and secure data-driven manufacturing systems.
+
+## Technical Reports and Preprints
+
+- Technical reports and preprints will be added as they become available.

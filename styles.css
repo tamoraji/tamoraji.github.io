@@ -1,1 +1,30 @@
 /* css styles */
+
+body {
+  line-height: 1.65;
+}
+
+.navbar-title {
+  font-weight: 600;
+}
+
+h1,
+h2,
+h3 {
+  color: #1f3349;
+}
+
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid #e6edf3;
+}
+
+a {
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.18em;
+}
+
+main.content {
+  max-width: 920px;
+}
