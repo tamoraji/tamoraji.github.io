@@ -4,6 +4,8 @@ title: "Mojtaba A. Farahani"
 
 ## Postdoctoral Researcher in Smart Manufacturing Analytics
 
+![Mojtaba A. Farahani](images/moji.JPG){.profile-photo fig-alt="Mojtaba A. Farahani"}
+
 I am a postdoctoral researcher at the University of South Carolina working on data-driven analytics for smart manufacturing systems.
 
 My research develops AI-enabled methods for understanding, forecasting, and improving complex manufacturing systems through time-series analytics, machine learning, deep learning, digital twins, agentic AI, and collaborative industrial intelligence. I am especially interested in methods that connect data-rich manufacturing environments with trustworthy decision support.

@@ -9,10 +9,12 @@ title: "Publications"
 1. **Farahani, M. A.**, Khan, M. I., & Wuest, T. (2026).  
    *Hybrid agentic AI and multi-agent systems in smart manufacturing.*  
    Journal of Manufacturing Systems, 86, 612-623.
+   [DOI](https://doi.org/10.1016/j.jmsy.2026.04.002)
 
 2. El Kalach, F., **Farahani, M. A.**, Samaha, P., Wuest, T., & Harik, R. (2026).  
    *Digital twin enabled robot collision detection using time series forecasting.*  
    Journal of Intelligent Manufacturing, 1-18.
+   [DOI](https://doi.org/10.1007/s10845-026-02803-9)
 
 3. Khan, M. I., **Farahani, M. A.**, & Wuest, T. (2026).  
    *Blockchain-empowered federated learning applications in smart manufacturing: A literature review.*  
@@ -21,48 +23,59 @@ title: "Publications"
 4. **Farahani, M. A.**, El Kalach, F., Harper, A., McCormick, M. R., Harik, R., & Wuest, T. (2025).  
    *Time-series forecasting in smart manufacturing systems: An experimental evaluation of the state-of-the-art algorithms.*  
    Robotics and Computer-Integrated Manufacturing, 95, 103010.
+   [DOI](https://doi.org/10.1016/j.rcim.2025.103010)
 
 5. El Kalach, F., **Farahani, M. A.**, Wuest, T., & Harik, R. (2025).  
    *Real-time defect detection and classification in robotic assembly lines: A machine learning framework.*  
    Robotics and Computer-Integrated Manufacturing, 95, 103011.
+   [DOI](https://doi.org/10.1016/j.rcim.2025.103011)
 
 6. McCormick, M. R., El Kalach, F., **Farahani, M. A.**, Harik, R., & Wuest, T. (2025).  
    *Rocket assembly line testbed as a service (TaaS): A comparison of data acquisition strategies.*  
    Manufacturing Letters, 44, 1444-1455.
+   [DOI](https://doi.org/10.1016/j.mfglet.2025.06.164)
 
 7. **Farahani, M. A.**, McCormick, M. R., Harik, R., & Wuest, T. (2025).  
    *Time-series classification in smart manufacturing systems: An experimental evaluation of state-of-the-art machine learning algorithms.*  
    Robotics and Computer-Integrated Manufacturing, 91, 102839.
+   [DOI](https://doi.org/10.1016/j.rcim.2024.102839)
 
 8. **Farahani, M. A.**, El Kalach, F., Harik, R., & Wuest, T. (2024).  
    *High-resolution time-series classification in smart manufacturing systems.*  
    Manufacturing Letters, 41, 1170-1181.
+   [DOI](https://doi.org/10.1016/j.mfglet.2024.09.143)
 
 9. Kasilingam, S., Yang, R., Singh, S. K., **Farahani, M. A.**, Rai, R., & Wuest, T. (2024).  
    *Physics-based and data-driven hybrid modeling in manufacturing: A review.*  
    Production & Manufacturing Research, 12(1), 2305358.
+   [DOI](https://doi.org/10.1080/21693277.2024.2305358)
 
 10. **Farahani, M. A.**, McCormick, M. R., Gianinny, R., Hudacheck, F., Harik, R., Liu, Z., & Wuest, T. (2023).  
     *Time-series pattern recognition in Smart Manufacturing Systems: A literature review and ontology.*  
     Journal of Manufacturing Systems, 69, 208-241.
+    [DOI](https://doi.org/10.1016/j.jmsy.2023.05.025)
 
 11. Rahman, M. M., **Farahani, M. A.**, & Wuest, T. (2023).  
     *Multivariate time-series classification of critical events from industrial drying hopper operations: A deep learning approach.*  
     Journal of Manufacturing and Materials Processing, 7(5), 164.
+    [DOI](https://doi.org/10.3390/jmmp7050164)
 
 12. Zarin Era, I., **Farahani, M. A.**, Wuest, T., & Liu, Z. (2023).  
     *Machine learning in Directed Energy Deposition (DED) additive manufacturing: A state-of-the-art review.*  
     Manufacturing Letters, 35(Supplement), 689-700.
+    [DOI](https://doi.org/10.1016/j.mfglet.2023.08.079)
 
 13. Babic, M., **Farahani, M. A.**, & Wuest, T. (2021).  
     *Image based quality inspection in smart manufacturing systems: A literature review.*  
     Procedia CIRP, 103, 262-267.
+    [DOI](https://doi.org/10.1016/j.procir.2021.10.042)
 
 ### Conference Papers
 
 1. Khan, M. I., Rayhan, M., **Farahani, M. A.**, & Wuest, T. (2025).  
    *Federated learning for smart manufacturing: Evaluating deep learning architectures for time series forecasting in a collaborative framework.*  
    IFIP International Conference on Advances in Production Management Systems, 49-61.
+   [DOI](https://doi.org/10.1007/978-3-032-03534-9_4)
 
 ## Manuscripts Under Review and Working Papers
 
@@ -73,10 +86,12 @@ Manuscripts under review and working papers will be added as they become availab
 1. **Farahani, M. A.** & McKendall, A. (2023).  
    *A genetic algorithm meta-heuristic for a generalized quadratic assignment problem.*  
    arXiv preprint arXiv:2308.07828v2.
+   [arXiv](https://arxiv.org/abs/2308.07828)
 
 2. **Farahani, M. A.** & Eslaminokandeh, T. (2023).  
    *Multivariate time series classification with dual attention network.*  
    arXiv preprint arXiv:2308.13968.
+   [arXiv](https://arxiv.org/abs/2308.13968)
 
 3. **Farahani, M. A.** & Wuest, T.  
    *Unlocking efficiency.*  
