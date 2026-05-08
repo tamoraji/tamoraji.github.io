@@ -4,20 +4,70 @@ title: "Projects"
 
 ## Time-Series Analytics for Smart Manufacturing
 
-Developed machine learning and deep learning models for forecasting, classification, pattern recognition, and decision support in smart manufacturing systems.
+This project develops data-driven methods for extracting operational insight from manufacturing time-series data. The work focuses on forecasting, classification, pattern recognition, anomaly detection, and model evaluation in smart manufacturing environments.
+
+**Methods:** machine learning, deep learning, time-series forecasting, time-series classification, benchmark experiments, manufacturing data analytics.
+
+**Contribution:** built and evaluated analytics workflows that help connect high-frequency manufacturing data with process monitoring, predictive maintenance, and quality improvement.
+
+**Related outputs:** publications on time-series forecasting, classification, high-resolution classification, and pattern recognition in smart manufacturing systems.
 
 ## Manufacturing Time-Series Analytics in NSF-Funded Research
 
-Led the manufacturing time-series analytics task in NSF-funded research at West Virginia University, with emphasis on experimental evaluation of algorithms for manufacturing data streams.
+This work contributed to NSF-funded research on manufacturing analytics at West Virginia University. The project emphasized rigorous experimental evaluation of algorithms for manufacturing time-series data and practical guidance for selecting methods in smart manufacturing applications.
+
+**Methods:** benchmark design, experimental evaluation, manufacturing datasets, statistical and machine learning models, deep learning architectures.
+
+**Contribution:** led the manufacturing time-series analytics task and helped define how forecasting and classification algorithms can be assessed for industrial use cases.
+
+**Related outputs:** journal publications in Robotics and Computer-Integrated Manufacturing, Journal of Manufacturing Systems, and Manufacturing Letters.
 
 ## Real-Time Defect Detection in Robotic Assembly
 
-Contributed to machine learning frameworks for real-time defect detection and classification in robotic assembly lines, connecting sensor data with quality monitoring and process feedback.
+This project applies machine learning to real-time defect detection and classification in robotic assembly lines. The goal is to connect sensor-rich robotic assembly data with fast quality assessment and actionable process feedback.
+
+**Methods:** supervised machine learning, feature extraction, classification, real-time monitoring, robotic assembly data analysis.
+
+**Contribution:** contributed to an ML framework for detecting and classifying defects during robotic assembly operations.
+
+**Related output:** *Real-time defect detection and classification in robotic assembly lines: A machine learning framework.*
 
 ## Federated Learning and Blockchain for Smart Manufacturing
 
-Current work on integrating federated learning, blockchain, and ML/DL models for secure and collaborative manufacturing systems where data privacy and trust are central constraints.
+This project explores secure collaborative AI for manufacturing systems where organizations may need to learn from distributed data without exposing sensitive operational information.
+
+**Methods:** federated learning, blockchain, deep learning for time-series forecasting, privacy-preserving analytics, collaborative manufacturing systems.
+
+**Contribution:** investigates how federated learning and blockchain can support trustworthy model training and coordination across distributed manufacturing partners.
+
+**Related outputs:** publications on federated learning for smart manufacturing and blockchain-empowered federated learning applications.
 
 ## Rocket Assembly Line Testbed as a Service
 
-Contributed to research on data acquisition strategies and testbed-as-a-service frameworks for rocket assembly lines, supporting repeatable experimentation and manufacturing analytics research.
+This project studies data acquisition strategies and testbed-as-a-service models for rocket assembly lines. The work supports repeatable experimentation, data collection, and analytics development for complex manufacturing systems.
+
+**Methods:** testbed design, data acquisition, manufacturing systems engineering, experimental infrastructure, assembly-line analytics.
+
+**Contribution:** contributed to the comparison of data acquisition strategies and the design of a testbed-as-a-service framework for manufacturing analytics research.
+
+**Related output:** *Rocket assembly line testbed as a service (TaaS): A comparison of data acquisition strategies.*
+
+## Agentic AI and Multi-Agent Systems in Smart Manufacturing
+
+This project investigates how agentic AI and multi-agent systems can support decision-making in smart manufacturing. The work focuses on coordinating autonomous or semi-autonomous agents for diagnosis, planning, maintenance, and system-level decision support.
+
+**Methods:** agentic AI, multi-agent systems, industrial AI, smart manufacturing decision support.
+
+**Contribution:** frames the role of agent-based intelligence in manufacturing systems and identifies opportunities for hybrid human-AI and multi-agent workflows.
+
+**Related output:** *Hybrid agentic AI and multi-agent systems in smart manufacturing.*
+
+## Digital Twin Enabled Robot Collision Detection
+
+This project connects digital twins, robot monitoring, and time-series forecasting to detect and anticipate collision-related behavior in robotic systems.
+
+**Methods:** digital twins, robot analytics, time-series forecasting, collision detection, predictive monitoring.
+
+**Contribution:** contributed to a digital twin enabled approach for robot collision detection using time-series forecasting methods.
+
+**Related output:** *Digital twin enabled robot collision detection using time series forecasting.*
